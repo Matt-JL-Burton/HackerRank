@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch standerdIO2",
+            "request": "launch",
+            "mainClass": "standerdIO2",
+            "projectName": "HackerRank_2d3d9686"
+        },
+        {
+            "type": "java",
             "name": "Launch HelloJava1",
             "request": "launch",
             "mainClass": "HelloJava1",
