@@ -9,6 +9,7 @@ public class standerdIO2{
         int thirdInt = scanner.nextInt();
         System.out.println(firstInt);
         System.out.println(secondInt);
-        System.out.println(thirdInt);  
+        System.out.println(thirdInt);
+        scanner.close();
     }
 }

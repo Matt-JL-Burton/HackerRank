@@ -11,5 +11,6 @@ public class stdinStout4 {
         System.out.println("String: " + thridString);
         System.out.println("Double: " + secondDouble);
         System.out.println("Int: " + fristInt);
+        scanner.close();
     }
 }
