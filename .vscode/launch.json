@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch outputFormatting5",
+            "request": "launch",
+            "mainClass": "outputFormatting5",
+            "projectName": "HackerRank_2d3d9686"
+        },
+        {
+            "type": "java",
             "name": "Launch stdinStout4",
             "request": "launch",
             "mainClass": "stdinStout4",
