@@ -3,6 +3,7 @@ import java.util.*;
 public class outputFormatting5 {
 
     public static void main(String[] args) {
+        System.out.println("Enter 3 lines in the format 'Word Number' using ENTER to go to a new line");
         Scanner scanner = new Scanner(System.in);
         String firstLineTxt = scanner.next();
         int firstLineInt = scanner.nextInt();
