@@ -27,10 +27,10 @@ class lexicographic{
                 if (i == itemToAddString.length() && i == varString.length()){
                     return count;
                 }  else if (i == itemToAddString.length()) {
+                    return count;
+                } else if (i == varString.length()) {
                     count = count + 1;
                     changeCountFlag = true;
-                } else if (i == varString.length()) {
-                    return count;
                 } else {
                     if (itemToAddString.charAt(i) < varString.charAt(i)){
                         return count;
