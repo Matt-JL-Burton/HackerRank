@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class stdinStout4 {
+class A {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
