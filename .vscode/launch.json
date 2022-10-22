@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch javaloops7",
+            "request": "launch",
+            "mainClass": "javaloops7",
+            "projectName": "HackerRank_2d3d9686"
+        },
+        {
+            "type": "java",
             "name": "Launch javaloops6",
             "request": "launch",
             "mainClass": "javaloops6",
