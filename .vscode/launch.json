@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch calender10",
+            "request": "launch",
+            "mainClass": "calender10",
+            "projectName": "HackerRank_2d3d9686"
+        },
+        {
+            "type": "java",
+            "name": "Launch Result",
+            "request": "launch",
+            "mainClass": "Result",
+            "projectName": "HackerRank_2d3d9686"
+        },
+        {
+            "type": "java",
             "name": "Launch tryThrowCatch9",
             "request": "launch",
             "mainClass": "tryThrowCatch9",
